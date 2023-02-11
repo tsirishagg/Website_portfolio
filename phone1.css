@@ -1,0 +1,73 @@
+ nav{    
+    padding-top: 4px;
+    width: 80px;
+    float: left;
+}
+
+.navbar ul{
+    height: 50px;
+    flex-direction: column;
+    text-align: center;
+    justify-content: left;
+     
+}
+
+.heading{
+    font-size: 1.8rem;
+}
+
+.gallery img{
+    width: 270px;
+    height: 360px;
+}
+.about{
+    flex-direction: column;
+}
+.about h2{
+    text-align: center;
+}
+.about img{
+    width: 300px;
+    height: 150px;
+    padding: 0px 15px;
+}
+.p{
+    text-align:justify;
+    font-size: 4vw;
+}
+#message{
+    width: 40%;
+    height: 200px;
+}
+.box{
+    height: 150px;
+    width: 250px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    margin: 10px;
+    padding: 20px;
+}
+.box h2{
+    color: rgb(240, 0, 0);
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+.box p{
+    color: white;
+    font-size: .8rem;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-style: italic;
+  }
+#footer{
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: small ;
+}
